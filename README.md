@@ -10,7 +10,7 @@ A passionate Backend Developer/Full Stack Developer with over 15 yrs of experien
 
 *Apr 2022 - Present*
 
-- Currently building OAuth2 support
+- Currently building Passkeys support
 - Added support for Multitenancy, Account Linking, Multi-Factor Authentication and more
 
 `PostgreSQL`, `Java`, `Golang`, `Node`, `Python`, `React`
